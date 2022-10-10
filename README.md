@@ -1,2 +1,2 @@
 # git_test
-A Test Repository for The Orin Project Course.
+A Test Repository for The Odin Project Course.
